@@ -5,14 +5,54 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/eliezer_oc/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eliezeroc@gmail.com)
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+<!-- <p align="center">
+    <img align="left" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=eliezereoc.eliezereoc" />
+</p>
+ -->
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/> 
+
+
+<br/>
+
+**A little about myself**
 
 - 👨‍🎓 Graduated in Analysis and Systems Development;
 - 💼 I'm a developer in [Healt Safe](https://);
 - 🌱 studying Front-End Developer at [IGTI](https://www.igti.com.br/) and English;
 - 💬 I am available to help you and answer your questions;
 <!-- - 🎓 Postgraduate specialization in Java technology; -->
+
+<br/>
+
+**Languages and Tools:** 
+<p>
+ <a href="https://github.com/eliezereoc">
+  <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=eliezereoc&show_icons=true&hide_border=true"/>
+ </a> 
+ 
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code> 
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+ <br/>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+</p>
+      
+      
+<p align="center" >
+    <img align="left" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=eliezereoc.eliezereoc" />
+</p>
+
+
+ 
+
+
+
+
+
 
 <!--
 **eliezereoc/eliezereoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
