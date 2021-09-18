@@ -9,11 +9,10 @@
 
 
 - 👨‍🎓 Graduated in Analysis and Systems Development;
-<!-- - 🎓 Postgraduate specialization in Java technology; -->
 - 💼 I'm a developer in [Healt Safe](https://);
 - 🌱 studying Front-End Developer at [IGTI](https://www.igti.com.br/) and English;
-- 💬 Ask me about anything, I am happy to help;
-
+- 💬 I am available to help you and answer your questions;
+<!-- - 🎓 Postgraduate specialization in Java technology; -->
 
 <!--
 **eliezereoc/eliezereoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
