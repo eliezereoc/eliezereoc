@@ -8,6 +8,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
+- 👨‍🎓 Graduated in Analysis and Systems Development;
+<!-- - 🎓 Postgraduate specialization in Java technology; -->
+- 💼 I'm a developer in [Healt Safe](https://);
+- 🌱 studying Front-End Developer at [IGTI](https://www.igti.com.br/) and English;
+- 💬 Ask me about anything, I am happy to help;
+
+
 <!--
 **eliezereoc/eliezereoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
