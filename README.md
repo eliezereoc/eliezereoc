@@ -1,4 +1,4 @@
- ## Hi, I'm Eliézer de Oliveira, a FullStack.
+ ## Hi, I'm Eliezer de Oliveira, Full Stack developer in Brazil.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/eliezereoc)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/eliezer-oliveira-cardoso-260354165)
