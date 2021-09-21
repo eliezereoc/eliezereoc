@@ -6,15 +6,11 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eliezeroc@gmail.com)
 
 
-<!-- <p align="center">
-    <img align="left" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=eliezereoc.eliezereoc" />
-</p>
- -->
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/> 
+<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/> 
 
 
-<br/>
+<br/> -->
 
 **A little about myself**
 
