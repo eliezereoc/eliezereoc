@@ -11,50 +11,53 @@
 
 
 <br/> -->
+<p align="left" > 
+ 
+ **A little about myself**
 
-**A little about myself**
-
-- 👨‍🎓 Graduated in Analysis and Systems Development;
-- 💼 I'm a developer in [Healt Safe](https://);
-- 🌱 studying Front-End Developer at [IGTI](https://www.igti.com.br/) and English;
-- 💬 I am available to help you and answer your questions;
-<!-- - 🎓 Postgraduate specialization in Java technology; -->
+ - 👨‍🎓 Graduated in Analysis and Systems Development;                            
+ - 💼 I'm a developer in [Healt Safe](https://);
+ - 🌱 studying Front-End Developer at [IGTI](https://www.igti.com.br/) and English;
+ - 💬 I am available to help you and answer your questions;
+ <!-- - 🎓 Postgraduate specialization in Java technology; -->
+</p>
 
 <br/>
 
 **Languages and Tools:** 
-<p>
- <a href="https://github.com/eliezereoc">
-  <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=eliezereoc&show_icons=true&hide_border=true"/>
- </a> 
- 
- 
+<hr/>
+<p align="left"> 
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
- <br/>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code> 
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code> 
+ 
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code> 
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
- <br/>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+ 
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
- <br/>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
  
-
- 
- 
- <br/>
- 
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 </p>
       
-      
-<p align="center" >
-    <img align="left" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=eliezereoc.eliezereoc" />
+<!-- <p align="left" >      
+ <a href="https://github.com/eliezereoc">
+  <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=eliezereoc&show_icons=true&hide_border=true"/>
+ </a> 
+</p> -->
+
+
+<br/>
+
+  
+<hr/>     
+<p align="center" >   
+    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=eliezereoc.eliezereoc" />
 </p>
 
 
