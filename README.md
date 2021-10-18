@@ -24,39 +24,48 @@
 
 <br/>
 
+
+
+<div align="center">  
+ 
 **Languages and Tools:** 
+ 
+</div>  
 <hr/>
-<p align="left"> 
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code> 
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code> 
- 
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code> 
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
- 
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-</p>
+<div style="display: inline-block" align="center">  
+ <img align="center" alt="HTML5" height="40" width="90" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+ <img align="center" alt="CSS" height="40" width="90" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
+ <img align="center" alt="SASS" height="40" width="90" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"> 
+ <img align="center" alt="TYPESCRIPT" height="40" width="90" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg">  
+ <img align="center" alt="JAVASCRIPT" height="40" width="90" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
+ </br>
+ <img align="center" alt="NODEJS" height="40" width="90" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+ <img align="center" alt="ANGULAR" height="40" width="90" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
+ <img align="center" alt="VUEJS" height="40" width="90" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"> 
+ <img align="center" alt="NPMJS" height="40" width="90" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg">
+ <img align="center" alt="GIT" height="40" width="90" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+ <img align="center" alt="MYSQL" height="40" width="90" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+ <img align="center" alt="VSCODE" height="40" width="90" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">  
+</div> 
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/eliezereoc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliezereoc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezereoc&layout=compact&langs_count=7&theme=dark"/>
+</div>
       
-<!-- <p align="left" >      
- <a href="https://github.com/eliezereoc">
-  <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=eliezereoc&show_icons=true&hide_border=true"/>
- </a> 
-</p> -->
+ 
 
 
 <br/>
 
   
 <hr/>     
-<p align="center" >   
+<div align="center" >   
     <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=eliezereoc.eliezereoc" />
-</p>
+</div>
 
 
  
