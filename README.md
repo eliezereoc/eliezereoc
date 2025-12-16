@@ -1,91 +1,39 @@
- ## Hi, I'm Eliezer de Oliveira, Full Stack developer in Brazil.
+# 👋 Olá, eu sou o Eliézer
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/eliezereoc)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eliezer-de-oliveira-cardoso-260354165/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/eliezer_oc/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eliezeroc@gmail.com)
+## 🇧🇷 Sobre mim
 
+**Backend Developer com foco em APIs e integrações**
 
+Atuo desde 2018 no desenvolvimento de **sistemas usados em produção**, com foco em **APIs REST, integrações entre sistemas e soluções corporativas**. Tenho experiência com regras de negócio complexas, bancos de dados e manutenção de código legado.
 
-<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/> 
+Sou graduado em Análise e Desenvolvimento de Sistemas e pós-graduado em Banco de Dados. Trabalho com aplicações web e mobile, sempre priorizando **código limpo, comunicação objetiva e entrega confiável**.
 
+### 💼 O que faço na prática
+- Desenvolvimento e manutenção de APIs REST  
+- Integração entre sistemas e serviços externos  
+- Correção e evolução de código legado  
+- Modelagem e otimização de consultas SQL  
+- Automação de processos e melhoria de performance  
 
-<br/> -->
-<p align="left" > 
- 
- **A little about myself**
+### 🛠 Tecnologias
+Node.js · JavaScript · TypeScript · SQL (MySQL/MariaDB) · REST APIs · Sequelize · Jest · TDD · Angular · React Native · PHP · Git · Docker (básico)
 
- - 👨‍🎓 Graduated in Analysis and Systems Development;                            
- - 💼 I'm a developer in [Healt Safe](https://);
- - 🌱 studying Front-End Developer at [IGTI](https://www.igti.com.br/) and English;
- - 💬 I am available to help you and answer your questions;
- <!-- - 🎓 Postgraduate specialization in Java technology; -->
-</p>
+---
 
-<br/>
+## 🇺🇸 About me
 
+**Backend Developer focused on APIs and system integrations**
 
+I’ve been working since 2018 on **production systems**, mainly building and maintaining **REST APIs, system integrations and corporate applications**. I’m used to dealing with complex business rules, databases and legacy code.
 
-<div align="center">  
- 
-**Languages and Tools:** 
- 
-</div>  
-<hr/>
-<div style="display: inline-block" align="center">  
- <img align="center" alt="HTML5" height="40" width="90" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
- <img align="center" alt="CSS" height="40" width="90" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
- <img align="center" alt="SASS" height="40" width="90" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"> 
- <img align="center" alt="TYPESCRIPT" height="40" width="90" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg">  
- <img align="center" alt="JAVASCRIPT" height="40" width="90" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
- </br>
- <img align="center" alt="NODEJS" height="40" width="90" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
- <img align="center" alt="ANGULAR" height="40" width="90" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">
- <img align="center" alt="VUEJS" height="40" width="90" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"> 
- <img align="center" alt="NPMJS" height="40" width="90" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg">
- <img align="center" alt="GIT" height="40" width="90" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
- <img align="center" alt="MYSQL" height="40" width="90" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
- <img align="center" alt="VSCODE" height="40" width="90" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">  
-</div> 
+I hold a degree in Systems Analysis and a postgraduate specialization in Databases. I focus on **clean code, clear communication and reliable delivery**.
 
-<br/>
+### 💼 What I do in practice
+- Build and maintain REST APIs  
+- Integrate systems and third-party services  
+- Fix and improve legacy code  
+- Optimize SQL queries and database performance  
+- Automate processes and reduce manual work  
 
-<div align="center">
-  <a href="https://github.com/eliezereoc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliezereoc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezereoc&layout=compact&langs_count=7&theme=dark"/>
-</div>
-      
- 
-
-
-<br/>
-
-  
-<hr/>     
-<div align="center" >   
-    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=eliezereoc.eliezereoc" />
-</div>
-
-
- 
-
-
-
-
-
-
-<!--
-**eliezereoc/eliezereoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech stack
+Node.js · JavaScript · TypeScript · SQL (MySQL/MariaDB) · REST APIs · Sequelize · Jest · TDD · Angular · React Native · PHP · Git · Docker (basic)
