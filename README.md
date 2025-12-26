@@ -4,9 +4,9 @@
 
 **Backend Developer com foco em APIs e integrações**
 
-Atuo desde 2018 no desenvolvimento de **sistemas usados em produção**, com foco em **APIs REST, integrações entre sistemas e soluções corporativas**. Tenho experiência com regras de negócio complexas, bancos de dados e manutenção de código legado.
+Atuo desde 2018 no desenvolvimento de **sistemas usados em produção**, com foco em **APIs REST, integrações entre sistemas e soluções corporativas**. Tenho experiência com regras de negócio complexas, bancos de dados e manutenção de código legado. 
 
-Sou graduado em Análise e Desenvolvimento de Sistemas e pós-graduado em Banco de Dados.   Trabalho com aplicações web e mobile, sempre priorizando **código limpo, comunicação objetiva e entrega confiável**.
+Sou graduado em Análise e Desenvolvimento de Sistemas e pós-graduado em Banco de Dados. Trabalho com aplicações web e mobile, sempre priorizando **código limpo, comunicação objetiva e entrega confiável**.
 
 ### 🔗 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliezer-de-oliveira-cardoso-260354165/)
@@ -23,8 +23,8 @@ Sou graduado em Análise e Desenvolvimento de Sistemas e pós-graduado em Banco 
 
 #### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node. js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6? style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E? style=for-the-badge&logo=javascript&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 #### Database
@@ -39,13 +39,13 @@ Sou graduado em Análise e Desenvolvimento de Sistemas e pós-graduado em Banco 
 ### 🎯 Áreas de Expertise
 
 | 🔌 Integração de Sistemas | 📊 Otimização de SQL | 🏗️ Código Legado |
-|: ---:|:---:|:---:|
+|:---:|: ---:|:---:|
 | APIs REST, webhooks, serviços externos | Queries complexas, índices, performance | Refatoração e evolução de sistemas |
 
 ### 🗺️ Roadmap de Estudos
 
 #### 🎯 Foco atual (Q1 2026)
-Estou evoluindo de **desenvolvimento de features** para **design de sistemas escaláveis**: 
+Estou evoluindo de **desenvolvimento de features** para **design de sistemas escaláveis**:
 
 **📐 Clean Architecture & Design Patterns**  
 Aplicar conceitos em refatoração de código legado no trabalho
@@ -70,7 +70,7 @@ GraphQL • Domain-Driven Design • gRPC • Terraform • CI/CD avançado
 ### 🌟 Destaques dos principais projetos
 
 #### 🔹 [API Server Node](https://github.com/eliezereoc/api-serve-node)
-![Node.js](https://img.shields.io/badge/Node. js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -100,7 +100,7 @@ I've been working since 2018 on **production systems**, mainly building and main
 I hold a degree in Systems Analysis and a postgraduate specialization in Databases. I focus on **clean code, clear communication and reliable delivery**.
 
 ### 🔗 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5? style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliezer-de-oliveira-cardoso-260354165/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliezer-de-oliveira-cardoso-260354165/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://eliezereoc.github.io/)
 
 ### 💼 What I do in practice
@@ -113,18 +113,18 @@ I hold a degree in Systems Analysis and a postgraduate specialization in Databas
 ### 🛠 Tech Stack
 
 #### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node. js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6? style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E? style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 #### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7? style=for-the-badge&logo=sequelize&logoColor=white)
 
 #### Testing & Tools
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032? style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🎯 Expertise Areas
@@ -161,8 +161,8 @@ GraphQL • Domain-Driven Design • gRPC • Terraform • Advanced CI/CD
 ### 🌟 Featured Projects
 
 #### 🔹 [API Server Node](https://github.com/eliezereoc/api-serve-node)
-![Node.js](https://img.shields.io/badge/Node. js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000? style=flat-square&logo=express&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
